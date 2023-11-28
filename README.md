@@ -1,7 +1,7 @@
 # Welcome to my world 🤗
 🌟 My major is Data Science;
 
-🎓 I'm gonna graduate from University of Economics HCM City (UEH) in Vietnam in 2025;
+🎓 I'm gonna graduate from University of Economics HCM City (UEH) in Vietnam in 2024;
 
 ⚔️ I'm developing my skills in data analysis, business intelligence, NLP techniques - LLM, Deep Machine Learning, UI/UX desdign.
 
